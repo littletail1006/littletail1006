@@ -59,7 +59,7 @@ Here are some ideas to get you started:
 
 ### 关于我
 - [技术笔记](https://zhousiwei.gitee.io/ibooks/)
-- [CSDN](https://zhousiwei.blog.csdn.net/)
+- [CSDN](https://blog.csdn.net/weixin_43822014/)
 - [微博](http://weibo.com/jayinfo)
 
 > ***I love to make friends. so if you want to say hi, I'll be happy to meet you more!😊***
